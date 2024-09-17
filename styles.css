@@ -1,0 +1,16 @@
+body{
+    background-color: aliceblue;
+}
+div{
+    border-top: 1px solid;
+    margin: 5%;
+}
+h1{
+    text-align: center;
+}
+.g, .bp, .sb{
+    height: 200px;
+    float: right;
+    margin-left: 1%;
+    box-sizing: border-box;
+}
